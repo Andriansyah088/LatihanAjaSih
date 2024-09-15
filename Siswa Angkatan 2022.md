@@ -1,19 +1,19 @@
-1.  Nama  :  Andri
-    NIM   :  00011
-    JK    :  LK
-    Agama :  Islam
+1.  Nama  :  Andri<br>
+    NIM   :  00011<br>
+    JK    :  LK<br>
+    Agama :  Islam<br>
 
-2.  Nama  :  Andri
-    NIM   :  00000
-    JK    :  LK
-    Agama :  Islam
+2.  Nama  :  Andri<br>
+    NIM   :  00000<br>
+    JK    :  LK<br>
+    Agama :  Islam<br>
 
-3.  Nama  :  Andri
-    NIM   :  00022
-    JK    :  LK
-    Agama :  Islam
+3.  Nama  :  Andri<br>
+    NIM   :  00022<br>
+    JK    :  LK<br>
+    Agama :  Islam<br>
 
-4.  Nama  :  Andri
-    NIM   :  00000
-    JK    :  LK
-    Agama :  Islam
+4.  Nama  :  Andri<br>
+    NIM   :  00000<br>
+    JK    :  LK<br>
+    Agama :  Islam<br>
